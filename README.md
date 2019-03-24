@@ -25,7 +25,7 @@ The offer number of applications is calculated when selected from the DB.
 ## Starting project
 
 There are two options: 
-1. Run CodingApplication.java from an your IDE
+1. Run CodingApplication.java from your IDE
 2. Run maven package and run the command from the target folder: ``java -jar coding-0.0.1-SNAPSHOT.jar``
 
 When you run the project it will run on your `localhost` on port `8080`.
